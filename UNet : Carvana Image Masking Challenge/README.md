@@ -53,14 +53,14 @@ https://arxiv.org/abs/1505.04597
 </p>
 <h3>Combine masks into images</h3>
 <p float="left">
-  <img src="/test_results/combinations/6125.jpg" width="128" />
-  <img src="/test_results/combinations/9665.jpg" width="128"/>
-  <img src="/test_results/combinations/19240.jpg" width="128"/>
-  <img src="/test_results/combinations/22269.jpg" width="128"/>
-  <img src="/test_results/combinations/24771.jpg" width="128"/>
-  <img src="/test_results/combinations/27537.jpg" width="128"/>
-  <img src="/test_results/combinations/35536.jpg" width="128"/>
-  <img src="/test_results/combinations/55639.jpg" width="128"/>
-  <img src="/test_results/combinations/58176.jpg" width="128"/>
-  <img src="/test_results/combinations/60608.jpg" width="128"/>
+  <img src="./test_results/combinations/6125.jpg" width="128" />
+  <img src="./test_results/combinations/9665.jpg" width="128"/>
+  <img src="./test_results/combinations/19240.jpg" width="128"/>
+  <img src="./test_results/combinations/22269.jpg" width="128"/>
+  <img src="./test_results/combinations/24771.jpg" width="128"/>
+  <img src="./test_results/combinations/27537.jpg" width="128"/>
+  <img src="./test_results/combinations/35536.jpg" width="128"/>
+  <img src="./test_results/combinations/55639.jpg" width="128"/>
+  <img src="./test_results/combinations/58176.jpg" width="128"/>
+  <img src="./test_results/combinations/60608.jpg" width="128"/>
 </p>
