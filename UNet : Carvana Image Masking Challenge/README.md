@@ -27,29 +27,29 @@ https://arxiv.org/abs/1505.04597
 <h2>Testing on 10 random images from test set</h2>
 <h3>Original Images</h3>
 <p float="left">
-  <img src="/test_results/imgs/6125.jpg" width="128" />
-  <img src="/test_results/imgs/9665.jpg" width="128"/>
-  <img src="/test_results/imgs/19240.jpg" width="128"/>
-  <img src="/test_results/imgs/22269.jpg" width="128"/>
-  <img src="/test_results/imgs/24771.jpg" width="128"/>
-  <img src="/test_results/imgs/27537.jpg" width="128"/>
-  <img src="/test_results/imgs/35536.jpg" width="128"/>
-  <img src="/test_results/imgs/55639.jpg" width="128"/>
-  <img src="/test_results/imgs/58176.jpg" width="128"/>
-  <img src="/test_results/imgs/60608.jpg" width="128"/>
+  <img src="./test_results/imgs/6125.jpg" width="128" />
+  <img src="./test_results/imgs/9665.jpg" width="128"/>
+  <img src="./test_results/imgs/19240.jpg" width="128"/>
+  <img src="./test_results/imgs/22269.jpg" width="128"/>
+  <img src="./test_results/imgs/24771.jpg" width="128"/>
+  <img src="./test_results/imgs/27537.jpg" width="128"/>
+  <img src="./test_results/imgs/35536.jpg" width="128"/>
+  <img src="./test_results/imgs/55639.jpg" width="128"/>
+  <img src="./test_results/imgs/58176.jpg" width="128"/>
+  <img src="./test_results/imgs/60608.jpg" width="128"/>
 </p>
 <h3>Masks</h3>
 <p float="left">
-  <img src="/test_results/masks/6125.jpg" width="128" />
-  <img src="/test_results/masks/9665.jpg" width="128"/>
-  <img src="/test_results/masks/19240.jpg" width="128"/>
-  <img src="/test_results/masks/22269.jpg" width="128"/>
-  <img src="/test_results/masks/24771.jpg" width="128"/>
-  <img src="/test_results/masks/27537.jpg" width="128"/>
-  <img src="/test_results/masks/35536.jpg" width="128"/>
-  <img src="/test_results/masks/55639.jpg" width="128"/>
-  <img src="/test_results/masks/58176.jpg" width="128"/>
-  <img src="/test_results/masks/60608.jpg" width="128"/>
+  <img src="./test_results/masks/6125.jpg" width="128" />
+  <img src="./test_results/masks/9665.jpg" width="128"/>
+  <img src="./test_results/masks/19240.jpg" width="128"/>
+  <img src="./test_results/masks/22269.jpg" width="128"/>
+  <img src="./test_results/masks/24771.jpg" width="128"/>
+  <img src="./test_results/masks/27537.jpg" width="128"/>
+  <img src="./test_results/masks/35536.jpg" width="128"/>
+  <img src="./test_results/masks/55639.jpg" width="128"/>
+  <img src="./test_results/masks/58176.jpg" width="128"/>
+  <img src="./test_results/masks/60608.jpg" width="128"/>
 </p>
 <h3>Combine masks into images</h3>
 <p float="left">
